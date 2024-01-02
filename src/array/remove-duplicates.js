@@ -18,4 +18,4 @@ export function  removeDuplicates(array){
 
     return slowIndex;
 
-}
+} 
